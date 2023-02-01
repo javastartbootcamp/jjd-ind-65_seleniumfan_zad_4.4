@@ -1,6 +1,5 @@
 package pl.javastart.task;
 
-import pl.javastart.loan.Config;
 import pl.javastart.loan.CustomerService;
 import pl.javastart.loan.Offer;
 import pl.javastart.loan.SalesRepresentative;

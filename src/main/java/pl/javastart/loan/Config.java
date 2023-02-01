@@ -1,6 +1,6 @@
 package pl.javastart.loan;
 
-public class Config {
+class Config {
     private int minRequiredEarnings = 2000;
     private double percentage = 0.03;
 
